@@ -20,8 +20,7 @@ body{
 
 }
 main{
-    display: grid;
-    place-items:center;
+    
 }
 
 .padre{
@@ -123,6 +122,9 @@ main{
     padding:15px 50px;
     color: white;
     display: table-cell;
+}
+.boton:hover{
+    background-color: rgb(132, 41, 8);
 }
 .contenedorboton{
     margin-top: 40px;
